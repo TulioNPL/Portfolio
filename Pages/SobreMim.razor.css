@@ -38,3 +38,7 @@ img {
     display: inline-block; /* Ensures the frame size is determined by its content */
     border-radius: 50%;
 }
+
+.bold-font {
+    font-style: italic;
+}

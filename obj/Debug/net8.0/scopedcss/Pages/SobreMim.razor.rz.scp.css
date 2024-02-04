@@ -38,3 +38,7 @@ img[b-udmkonq5hx] {
     display: inline-block; /* Ensures the frame size is determined by its content */
     border-radius: 50%;
 }
+
+.bold-font[b-udmkonq5hx] {
+    font-style: italic;
+}

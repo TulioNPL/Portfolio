@@ -1035,3 +1035,4 @@
 /Users/tuliopolido/Repos/Portfolio/obj/Debug/net8.0/webcil/BlazorTypewriter.wasm
 /Users/tuliopolido/Repos/Portfolio/obj/Debug/net8.0/compressed/mzyycsczt6.gz
 /Users/tuliopolido/Repos/Portfolio/obj/Debug/net8.0/scopedcss/Pages/SobreMim.razor.rz.scp.css
+/Users/tuliopolido/Repos/Portfolio/obj/Debug/net8.0/Portfolio.sourcelink.json

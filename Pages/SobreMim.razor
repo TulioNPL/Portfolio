@@ -1,4 +1,5 @@
 ﻿@page "/"
+@using BlazorTypewriter
 
 <PageTitle>Sobre Mim</PageTitle>
 
@@ -12,13 +13,15 @@
         </div>
 
         <div class="col-lg-4 col-md-6 center-content">
-            <p>Nome: Túlio Nunes Polido Lopes</p>
-            <p>Data de Nascimento: 20 de outubro de 1995</p>
-            <p>Cidade: Belo Horizonte - Minas Gerais</p>
+            <p><strong>Nome:</strong> <Typewriter Builder="@typewriter1" /></p>
+            <p><strong>Data de Nascimento:</strong> <Typewriter Builder="@typewriter2" /></p>
+            <p><strong>Cidade:</strong> <Typewriter Builder="@typewriter3" /></p>
+            <p><strong>E-mail:</strong> <Typewriter Builder="@typewriter4" /></p>
+            <p><strong>Celular:</strong> <Typewriter Builder="@typewriter5" /></p>
         </div>
 
         <div class="col-lg-4 col-md-12 right-content">
-            <p>Another small paragraph about me. It could contain additional details and information.</p>
+            <p><Typewriter Builder="@typewriter6" /></p>
         </div>
     </div>
 </div>
