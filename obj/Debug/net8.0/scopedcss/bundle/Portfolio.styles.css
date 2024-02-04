@@ -1,6 +1,6 @@
 /* /Layout/MainLayout.razor.rz.scp.css */
 .page[b-57rfh191dz] {
-    background-color: #1C3436;
+    background-color: #222729;
     display: flex;
     align-items: center;
 }
@@ -78,9 +78,9 @@ main[b-57rfh191dz] {
 }
 /* /Layout/TopMenu.razor.rz.scp.css */
 .top-menu[b-zxp4h0y2iy] {
-    background-color: #FFFFF5;
+    background-color: #161A1C;
     padding: 10px;
-    color: #000;
+    color: #D2DBDE;
     text-align: center;
 }
 
@@ -89,7 +89,7 @@ main[b-57rfh191dz] {
 }
 
 .navbar-toggler[b-zxp4h0y2iy] {
-    border-color: #461220; /* Color of the toggler border in the collapsed state */
+    border-color: #D2DBDE; /* Color of the toggler border in the collapsed state */
 }
 
 .navbar-collapse[b-zxp4h0y2iy] {
@@ -97,12 +97,12 @@ main[b-57rfh191dz] {
 }
 
 .navbar-nav .nav-link[b-zxp4h0y2iy] {
-    color: #000;
+    color: #D2DBDE;
     padding: 10px 20px; /* Adjust padding as needed */
 }
 
 .navbar-nav .nav-link:hover[b-zxp4h0y2iy] {
-    border-bottom: 2px solid #000; /* Change the border color on hover */
+    border-bottom: 2px solid #D2DBDE; /* Change the border color on hover */
 }
 
 .menu-options[b-zxp4h0y2iy] {
@@ -119,14 +119,14 @@ main[b-57rfh191dz] {
 }
 
 .menu-options a:hover[b-zxp4h0y2iy] {
-    border-bottom-color: #000; /* Change the border color on hover */
+    border-bottom-color: #D2DBDE; /* Change the border color on hover */
 }
 /* /Pages/Educacao.razor.rz.scp.css */
 .content-container[b-tdm30972oq] {
-    background-color: #FFFFF5;
+    background-color: #D2DBDE;
     border-radius: 20px;
     margin-top: 50px;
-    color: #000;
+    color: #161A1C;
     padding: 20px;
     display: flex;
     justify-content: center;
@@ -157,7 +157,7 @@ img[b-tdm30972oq] {
 }
 
 .image-frame[b-tdm30972oq] {
-    background-color: #FFFFF5; /* Background color */
+    background-color: #D2DBDE; /* Background color */
     padding: 10px;
     display: inline-block; /* Ensures the frame size is determined by its content */
     border-radius: 25;
@@ -186,12 +186,16 @@ img[b-tdm30972oq] {
 .description[b-tdm30972oq] {
     text-align: left;
 }
+
+.curso[b-tdm30972oq] {
+    margin-top: 25px;
+}
 /* /Pages/SobreMim.razor.rz.scp.css */
 .content-container[b-udmkonq5hx] {
-    background-color: #FFFFF5;
+    background-color: #D2DBDE;
     border-radius: 20px;
     margin-top: 50px;
-    color: #000;
+    color: #161A1C;
     padding: 20px;
     display: flex;
     justify-content: center;
@@ -222,8 +226,8 @@ img[b-udmkonq5hx] {
 }
 
 .image-frame[b-udmkonq5hx] {
-    border: 4px solid #461220; /* Border color */
-    background-color: #BCB8B1; /* Background color */
+    border: 4px solid #161A1C; /* Border color */
+    background-color: #2C6381; /* Background color */
     padding: 10px;
     display: inline-block; /* Ensures the frame size is determined by its content */
     border-radius: 50%;
@@ -244,3 +248,4 @@ img[b-udmkonq5hx] {
     font-size: medium;
     justify-content: left;
 }
+

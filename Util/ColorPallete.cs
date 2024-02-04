@@ -1,10 +1,12 @@
 namespace Portfolio.Util {
     public static class CollorPallete {
-        public const string Licorice = "#230903";
-        public const string Ebony = "#656256";
-        public const string CambrigeBlue = "#9EBC9F";
-        public const string Tan = "#D3B88C";
-        public const string WhiteSmoke = "#F4F2F3";
+        public const string EerieBlack = "#161A1C";
+        public const string DarkGunmetal = "#222729";
+        public const string DarkCharcoal = "#303436";
+        public const string Arsenic = "#3D4143";
+        public const string MetallicBlue = "#2C6381";
+        public const string LightSilver = "#D2DBDE";
+        public const string MetallicSilver = "#A2A7AC";
     }
 }
 

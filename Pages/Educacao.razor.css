@@ -1,8 +1,8 @@
 .content-container {
-    background-color: #FFFFF5;
+    background-color: #D2DBDE;
     border-radius: 20px;
     margin-top: 50px;
-    color: #000;
+    color: #161A1C;
     padding: 20px;
     display: flex;
     justify-content: center;
@@ -33,7 +33,7 @@ img {
 }
 
 .image-frame {
-    background-color: #FFFFF5; /* Background color */
+    background-color: #D2DBDE; /* Background color */
     padding: 10px;
     display: inline-block; /* Ensures the frame size is determined by its content */
     border-radius: 25;
@@ -61,4 +61,8 @@ img {
 
 .description {
     text-align: left;
+}
+
+.curso {
+    margin-top: 25px;
 }

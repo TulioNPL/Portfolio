@@ -1,8 +1,8 @@
 .content-container {
-    background-color: #FFFFF5;
+    background-color: #D2DBDE;
     border-radius: 20px;
     margin-top: 50px;
-    color: #000;
+    color: #161A1C;
     padding: 20px;
     display: flex;
     justify-content: center;
@@ -33,8 +33,8 @@ img {
 }
 
 .image-frame {
-    border: 4px solid #461220; /* Border color */
-    background-color: #BCB8B1; /* Background color */
+    border: 4px solid #161A1C; /* Border color */
+    background-color: #2C6381; /* Background color */
     padding: 10px;
     display: inline-block; /* Ensures the frame size is determined by its content */
     border-radius: 50%;
@@ -55,3 +55,4 @@ img {
     font-size: medium;
     justify-content: left;
 }
+

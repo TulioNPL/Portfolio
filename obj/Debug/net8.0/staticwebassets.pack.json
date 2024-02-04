@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets/img/Logo-PUC-Minas.png"
     },
     {
+      "Id": "/Users/tuliopolido/Repos/Portfolio/wwwroot/img/Logo_UFMG.png",
+      "PackagePath": "staticwebassets/img/Logo_UFMG.png"
+    },
+    {
       "Id": "/Users/tuliopolido/Repos/Portfolio/wwwroot/img/eu.png",
       "PackagePath": "staticwebassets/img/eu.png"
     },
