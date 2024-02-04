@@ -1,16 +1,16 @@
 .top-menu[b-zxp4h0y2iy] {
-    background-color: #230903;
+    background-color: #461220;
     padding: 10px;
-    color: #F4F2F3;
+    color: #F4F3EE;
     text-align: center;
 }
 
 .navbar-toggler-icon[b-zxp4h0y2iy] {
-    background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=230903');
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=561C24');
 }
 
 .navbar-toggler[b-zxp4h0y2iy] {
-    border-color: #230903; /* Color of the toggler border in the collapsed state */
+    border-color: #461220; /* Color of the toggler border in the collapsed state */
 }
 
 .navbar-collapse[b-zxp4h0y2iy] {
@@ -18,12 +18,12 @@
 }
 
 .navbar-nav .nav-link[b-zxp4h0y2iy] {
-    color: #F4F2F3;
+    color: #F4F3EE;
     padding: 10px 20px; /* Adjust padding as needed */
 }
 
 .navbar-nav .nav-link:hover[b-zxp4h0y2iy] {
-    border-bottom: 2px solid white; /* Change the border color on hover */
+    border-bottom: 2px solid #F4F3EE; /* Change the border color on hover */
 }
 
 .menu-options[b-zxp4h0y2iy] {
@@ -40,5 +40,5 @@
 }
 
 .menu-options a:hover[b-zxp4h0y2iy] {
-    border-bottom-color: white; /* Change the border color on hover */
+    border-bottom-color: #F4F3EE; /* Change the border color on hover */
 }

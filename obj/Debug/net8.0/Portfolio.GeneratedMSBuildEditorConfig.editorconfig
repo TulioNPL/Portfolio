@@ -26,10 +26,6 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tuliopolido/Repos/Portfolio/Pages/Educacao.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRWR1Y2FjYW8ucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/tuliopolido/Repos/Portfolio/Pages/Profissional.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZmlzc2lvbmFsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -45,6 +41,10 @@ build_metadata.AdditionalFiles.CssScope = b-57rfh191dz
 [/Users/tuliopolido/Repos/Portfolio/Layout/TopMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L1RvcE1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-zxp4h0y2iy
+
+[/Users/tuliopolido/Repos/Portfolio/Pages/Educacao.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRWR1Y2FjYW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-tdm30972oq
 
 [/Users/tuliopolido/Repos/Portfolio/Pages/SobreMim.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU29icmVNaW0ucmF6b3I=
