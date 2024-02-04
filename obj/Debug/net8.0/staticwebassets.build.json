@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WQ5mkH1atddHlc0Cwz3JtyKci6KWdzIJA3e7Kh7lUmM=",
+  "Hash": "AmhIGj4ySTKYkHpvb0xh3WNWrYetzJ7BKSZei3HIcCU=",
   "Source": "Portfolio",
   "BasePath": "/",
   "Mode": "Root",
@@ -7976,6 +7976,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/eu.png"
+    },
+    {
+      "Identity": "/Users/tuliopolido/Repos/Portfolio/wwwroot/img/Logo-PUC-Minas.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/tuliopolido/Repos/Portfolio/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "img/Logo-PUC-Minas.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/Logo-PUC-Minas.png"
     },
     {
       "Identity": "/Users/tuliopolido/Repos/Portfolio/wwwroot/img/me.png",

@@ -1,0 +1,64 @@
+.content-container[b-tdm30972oq] {
+    background-color: #FFFFF5;
+    border-radius: 20px;
+    margin-top: 50px;
+    color: #000;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.left-content[b-tdm30972oq] {
+    padding: 20px;
+}
+
+.right-content[b-tdm30972oq] {
+    padding: 20px;
+    font-size: larger;
+    text-align: justify;
+}
+
+
+.center-content[b-tdm30972oq] {
+    text-align: left;
+    padding: 20px;
+    font-size: larger;
+    vertical-align: middle;
+}
+
+img[b-tdm30972oq] {
+    max-width: 100%;
+    border-radius: 20px; /* Optional: add rounded corners to the image */
+}
+
+.image-frame[b-tdm30972oq] {
+    background-color: #FFFFF5; /* Background color */
+    padding: 10px;
+    display: inline-block; /* Ensures the frame size is determined by its content */
+    border-radius: 25;
+}
+
+.bold-font[b-tdm30972oq] {
+    font-style: italic;
+}
+
+.hd[b-tdm30972oq] {
+    padding: 20px;
+    font-size: x-large;
+    text-align: center;
+}
+
+.listing[b-tdm30972oq] {
+    text-align: left;
+    font-size: medium;
+    justify-content: left;
+}
+
+.row-margin[b-tdm30972oq] {
+    margin-top: 20px; /* Adjust the margin value as needed */
+}
+
+.description[b-tdm30972oq] {
+    text-align: left;
+}

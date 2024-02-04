@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets/icon-192.png"
     },
     {
+      "Id": "/Users/tuliopolido/Repos/Portfolio/wwwroot/img/Logo-PUC-Minas.png",
+      "PackagePath": "staticwebassets/img/Logo-PUC-Minas.png"
+    },
+    {
       "Id": "/Users/tuliopolido/Repos/Portfolio/wwwroot/img/eu.png",
       "PackagePath": "staticwebassets/img/eu.png"
     },
