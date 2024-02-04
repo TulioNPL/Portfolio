@@ -1,0 +1,164 @@
+/* /Layout/MainLayout.razor.rz.scp.css */
+.page[b-57rfh191dz] {
+    background-color: #F4F2F3;
+    display: flex;
+    align-items: center;
+}
+
+main[b-57rfh191dz] {
+    flex: 1;
+}
+
+.sidebar[b-57rfh191dz] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-57rfh191dz] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-57rfh191dz]  a, .top-row[b-57rfh191dz]  .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+    .top-row[b-57rfh191dz]  a:hover, .top-row[b-57rfh191dz]  .btn-link:hover {
+        text-decoration: underline;
+    }
+
+    .top-row[b-57rfh191dz]  a:first-child {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row[b-57rfh191dz] {
+        justify-content: space-between;
+    }
+
+    .top-row[b-57rfh191dz]  a, .top-row[b-57rfh191dz]  .btn-link {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-57rfh191dz] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-57rfh191dz] {
+        width: 100%;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-57rfh191dz] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row.auth[b-57rfh191dz]  a:first-child {
+        flex: 1;
+        text-align: right;
+        width: 0;
+    }
+
+    .top-row[b-57rfh191dz], article[b-57rfh191dz] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* /Layout/TopMenu.razor.rz.scp.css */
+.top-menu[b-zxp4h0y2iy] {
+    background-color: #230903;
+    padding: 10px;
+    color: #F4F2F3;
+    text-align: center;
+}
+
+.navbar-toggler-icon[b-zxp4h0y2iy] {
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=230903');
+}
+
+.navbar-toggler[b-zxp4h0y2iy] {
+    border-color: #230903; /* Color of the toggler border in the collapsed state */
+}
+
+.navbar-collapse[b-zxp4h0y2iy] {
+    justify-content: center;
+}
+
+.navbar-nav .nav-link[b-zxp4h0y2iy] {
+    color: #F4F2F3;
+    padding: 10px 20px; /* Adjust padding as needed */
+}
+
+.navbar-nav .nav-link:hover[b-zxp4h0y2iy] {
+    border-bottom: 2px solid white; /* Change the border color on hover */
+}
+
+.menu-options[b-zxp4h0y2iy] {
+    display: flex;
+    justify-content: center;
+}
+
+.menu-options a[b-zxp4h0y2iy] {
+    text-decoration: none;
+    color: inherit;
+    padding: 10px 20px; /* Adjust padding as needed */
+    margin: 0 10px; /* Adjust margin as needed */
+    border-bottom: 2px solid transparent; /* Add an optional border */
+}
+
+.menu-options a:hover[b-zxp4h0y2iy] {
+    border-bottom-color: white; /* Change the border color on hover */
+}
+/* /Pages/SobreMim.razor.rz.scp.css */
+.content-container[b-udmkonq5hx] {
+    background-color: #230903;
+    border-radius: 20px;
+    margin-top: 50px;
+    color: #F4F2F3;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.left-content[b-udmkonq5hx] {
+    padding: 20px;
+}
+
+.right-content[b-udmkonq5hx] {
+    padding: 20px;
+    font-size: larger;
+}
+
+
+.center-content[b-udmkonq5hx] {
+    text-align: left;
+    padding: 20px;
+    font-size: larger;
+    vertical-align: middle;
+}
+
+img[b-udmkonq5hx] {
+    max-width: 100%;
+    border-radius: 50%; /* Optional: add rounded corners to the image */
+}
+
+.image-frame[b-udmkonq5hx] {
+    border: 4px solid #230903; /* Border color */
+    background-color: #656256; /* Background color */
+    padding: 10px;
+    display: inline-block; /* Ensures the frame size is determined by its content */
+    border-radius: 50%;
+}

@@ -1,0 +1,44 @@
+.top-menu[b-zxp4h0y2iy] {
+    background-color: #230903;
+    padding: 10px;
+    color: #F4F2F3;
+    text-align: center;
+}
+
+.navbar-toggler-icon[b-zxp4h0y2iy] {
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=230903');
+}
+
+.navbar-toggler[b-zxp4h0y2iy] {
+    border-color: #230903; /* Color of the toggler border in the collapsed state */
+}
+
+.navbar-collapse[b-zxp4h0y2iy] {
+    justify-content: center;
+}
+
+.navbar-nav .nav-link[b-zxp4h0y2iy] {
+    color: #F4F2F3;
+    padding: 10px 20px; /* Adjust padding as needed */
+}
+
+.navbar-nav .nav-link:hover[b-zxp4h0y2iy] {
+    border-bottom: 2px solid white; /* Change the border color on hover */
+}
+
+.menu-options[b-zxp4h0y2iy] {
+    display: flex;
+    justify-content: center;
+}
+
+.menu-options a[b-zxp4h0y2iy] {
+    text-decoration: none;
+    color: inherit;
+    padding: 10px 20px; /* Adjust padding as needed */
+    margin: 0 10px; /* Adjust margin as needed */
+    border-bottom: 2px solid transparent; /* Add an optional border */
+}
+
+.menu-options a:hover[b-zxp4h0y2iy] {
+    border-bottom-color: white; /* Change the border color on hover */
+}
