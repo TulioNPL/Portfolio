@@ -1,0 +1,1 @@
+/home/tulionpl/Repos/SitePessoal/bin/Release/net8.0/publish/web.config

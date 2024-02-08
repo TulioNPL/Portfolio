@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "/home/tulionpl/Repos/SitePessoal/bin/Release/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/tulionpl/Repos/SitePessoal/obj/Release/net8.0/compressed/7un496dt2u.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/tulionpl/Repos/SitePessoal/obj/Release/net8.0/scopedcss/bundle/Portfolio.styles.css",
+      "PackagePath": "staticwebassets/Portfolio.styles.css"
+    },
+    {
+      "Id": "/home/tulionpl/Repos/SitePessoal/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/tulionpl/Repos/SitePessoal/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/tulionpl/Repos/SitePessoal/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/tulionpl/Repos/SitePessoal/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/tulionpl/Repos/SitePessoal/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/tulionpl/Repos/SitePessoal/wwwroot/img/Logo-PUC-Minas.png",
+      "PackagePath": "staticwebassets/img/Logo-PUC-Minas.png"
+    },
+    {
+      "Id": "/home/tulionpl/Repos/SitePessoal/wwwroot/img/Logo_UFMG.png",
+      "PackagePath": "staticwebassets/img/Logo_UFMG.png"
+    },
+    {
+      "Id": "/home/tulionpl/Repos/SitePessoal/wwwroot/img/eu.png",
+      "PackagePath": "staticwebassets/img/eu.png"
+    },
+    {
+      "Id": "/home/tulionpl/Repos/SitePessoal/wwwroot/img/me.png",
+      "PackagePath": "staticwebassets/img/me.png"
+    },
+    {
+      "Id": "/home/tulionpl/Repos/SitePessoal/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/tulionpl/Repos/SitePessoal/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.build.Portfolio.props",
+      "PackagePath": "build\\Portfolio.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.Portfolio.props",
+      "PackagePath": "buildMultiTargeting\\Portfolio.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.Portfolio.props",
+      "PackagePath": "buildTransitive\\Portfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
