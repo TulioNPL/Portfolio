@@ -9,18 +9,7 @@
         <div class="navbar-nav">
             <a class="nav-link" href="/"><Typewriter Builder="@typewriter1" /></a>
             <a class="nav-link" href="/educacao"><Typewriter Builder="@typewriter2" /></a>
-            <a class="nav-link" href="/profissional"><Typewriter Builder="@typewriter3" /></a>
+            @* <a class="nav-link" href="/profissional"><Typewriter Builder="@typewriter3" /></a> *@
         </div>
     </div>
 </nav>
-
-@code {
-    TypewriterBuilder typewriter1 = new TypewriterBuilder(defaultCharacterPause: 50)
-        .TypeString("Sobre mim");
-    TypewriterBuilder typewriter2 = new TypewriterBuilder(defaultCharacterPause: 50)
-        .Pause(600)
-        .TypeString("Educação");
-    TypewriterBuilder typewriter3 = new TypewriterBuilder(defaultCharacterPause: 50)
-        .Pause(1000)
-        .TypeString("Profissional");
-}

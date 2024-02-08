@@ -1,4 +1,4 @@
-using Portfolio.Server.Components;
+using Portfolio.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 

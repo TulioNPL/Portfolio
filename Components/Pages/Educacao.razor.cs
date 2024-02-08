@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Components;
 using Portfolio.Models;
 
-namespace Portfolio.Pages {
+namespace Portfolio.Components.Pages {
     public partial class Educacao {
         public List<Curso> Cursos { get; set; }
         protected override void OnInitialized()

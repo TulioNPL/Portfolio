@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Components;
 using BlazorTypewriter;
 
-namespace Portfolio.Pages
+namespace Portfolio.Components.Pages
 {
     public partial class SobreMim
     {
