@@ -1,6 +1,9 @@
 # Visual Studio Code
 .vscode/
 
+bin/
+obj/
+
 # User-specific files
 *.rsuser
 *.suo
