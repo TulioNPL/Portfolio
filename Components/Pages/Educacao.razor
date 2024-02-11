@@ -121,7 +121,9 @@
 
         <!-- Lista de Cursos -->
         @for (int i = 0; i < Cursos.Count; i++) {
-            <CursoCard curso="Cursos[i]" ehUltimoDaLista="i < Cursos.Count - 1"></CursoCard>
+            <Animate Animation="Animations.FlipDown" Duration="TimeSpan.FromSeconds(0.5)">
+                <CursoCard curso="Cursos[i]" ehUltimoDaLista="i < Cursos.Count - 1"></CursoCard>
+            </Animate>
         }
     </div>
 </div>
