@@ -121,32 +121,7 @@
 
         <!-- Lista de Cursos -->
         @for (int i = 0; i < Cursos.Count; i++) {
-            <div class="col-lg-12 description curso">
-
-                <!-- First Row -->
-                <div class="row">
-                    <div class="col-lg-4">
-                        <strong>Instituição:</strong> @Cursos[i].Instituicao
-                    </div>
-                    <div class="col-lg-6">
-                        <strong>Curso:</strong> @Cursos[i].Nome
-                    </div>
-                    <div class="col-lg-2">
-                        <strong>Ano:</strong> @Cursos[i].Ano
-                    </div>
-                </div>
-                
-                <!-- Second Row -->
-                <div class="row row-margin">
-                    <div class="col-lg-12">
-                    <strong>Descrição:</strong>  @Cursos[i].Descricao
-                    </div>
-                </div>
-
-                @if(i < Cursos.Count - 1){
-                    <hr style="margin-top: 25px; height: 3px; background-color: #222729; color: #222729">
-                }
-            </div>
+            <CursoCard curso="Cursos[i]" ehUltimoDaLista="i < Cursos.Count - 1"></CursoCard>
         }
     </div>
 </div>
