@@ -1,6 +1,9 @@
 ﻿@page "/"
-@using BlazorTypewriter
 @rendermode InteractiveServer
+
+@using BlazorTypewriter
+@using BlazorAnimate
+@using Portfolio.Components.Components;
 
 <PageTitle>Sobre Mim</PageTitle>
 
@@ -8,9 +11,9 @@
 <div class="container">
     <div class="row content-container">
         <div class="col-lg-4 col-md-6 left-content">
-            <div class="image-frame">
-                <img src="/img/eu.png" alt="Eu" class="img-fluid">
-            </div>
+            <Animate Animation="Animations.ZoomIn" Duration="TimeSpan.FromSeconds(1)" Delay="TimeSpan.FromSeconds(1)">
+                <MyImg></MyImg>
+            </Animate>
         </div>
 
         <div class="col-lg-4 col-md-6 center-content">

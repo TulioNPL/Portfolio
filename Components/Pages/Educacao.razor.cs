@@ -3,7 +3,7 @@ using Portfolio.Models;
 
 namespace Portfolio.Components.Pages {
     public partial class Educacao {
-        public List<Curso> Cursos { get; set; }
+        public List<Curso> Cursos { get; set; } = new();
         protected override void OnInitialized()
         {
             Cursos = new List<Curso>
